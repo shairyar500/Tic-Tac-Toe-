@@ -2,7 +2,7 @@
 - A React JS project.
 
 ## What does this app do?
-- This is a contacts list app in which news have been fetched thru an API.
+- This is a Tic-tac-toe app in which we play tic tac toe game multiplayer.
 
 ## I have used following technologies:
 - HTML, CSS, JavaScript, npm, react, Bootstrap (for coding and implementation on UI)
@@ -19,7 +19,7 @@ OR
 - open live server version of index.html in your browser.
 
 ## Repo Link:
-https://github.com/rafatfatima-qa/tic-tac-toe
+https://github.com/shairyar500/Tic-Tac-Toe-.git
 
 ## Live Link:
-https://rafatfatima-qa.github.io/tic-tac-toe/
+https://shairyar500.github.io/Tic-Tac-Toe-/
